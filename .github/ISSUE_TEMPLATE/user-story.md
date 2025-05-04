@@ -10,3 +10,9 @@ assignees: ''
 #### As a...
 #### I need...
 #### So that...
+
+### Acceptance Criteria
+
+##### Given [some context]
+##### When [certain action is taken]
+##### Then [outcome of action]
